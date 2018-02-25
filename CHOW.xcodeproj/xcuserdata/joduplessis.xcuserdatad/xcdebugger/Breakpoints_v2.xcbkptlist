@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CHOW/TabBarController.swift"
+            timestampString = "518557352.239535"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "UIColor"
+            landmarkType = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in CHOW):__ObjC.UIColor.init (red : Swift.Int, green : Swift.Int, blue : Swift.Int) -&gt; __ObjC.UIColor"
+                  moduleName = "CHOW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joduplessis/Desktop/ios/CHOW/TabBarController.swift"
+                  timestampString = "518552465.064191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in CHOW):__ObjC.UIColor.init (red : Swift.Int, green : Swift.Int, blue : Swift.Int) -&gt; __ObjC.UIColor"
+                  moduleName = "CHOW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joduplessis/Desktop/ios/CHOW/TabBarController.swift"
+                  timestampString = "518552465.066367"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
